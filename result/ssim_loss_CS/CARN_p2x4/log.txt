@@ -1,0 +1,5 @@
+=> use gpu id: '0'
+Random Seed:  6359
+===> Loading datasets
+./dataset/LR_2/p2
+lr: (64 48), hr: (256 192)

@@ -1,0 +1,10 @@
+=> use gpu id: '1'
+Random Seed:  3771
+===> Loading datasets
+./dataset/LR_2/p2
+lr: (128 96), hr: (256 192)
+===> Building model: CARN
+===> Setting GPU
+===> Setting Optimizer
+===> Training
+Epoch=1, lr=0.0001
